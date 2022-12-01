@@ -128,6 +128,17 @@ entries:
         url: /ios_design.html
       - title: Implementation (영문)
         url: /ios_implementation.html
+  - title: C Guidelines
+    folderitems:
+      - title: Design
+        url: /clang_design.html
+      - title: Implementation
+        url: /clang_implementation.html
+        subfolders:
+            - title: API Documentation
+              subfolderitems:
+                - title: az_iot
+                  external_url: https://azure.github.io/azure-sdk-for-c/iot.html#az_iot
   - title: GitHub 저장소
     folderitems:
       - title: Guidelines Contributions (영문)
